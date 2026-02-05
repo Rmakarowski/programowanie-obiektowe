@@ -1,0 +1,14 @@
+C:\Users\Rafał\Desktop\projekt\71339_Projekt\71339_Projekt\obj\Debug\net10.0\71339_Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafał\Desktop\projekt\71339_Projekt\71339_Projekt\obj\Debug\net10.0\71339_Projekt.AssemblyInfoInputs.cache
+C:\Users\Rafał\Desktop\projekt\71339_Projekt\71339_Projekt\obj\Debug\net10.0\71339_Projekt.AssemblyInfo.cs
+C:\Users\Rafał\Desktop\projekt\71339_Projekt\71339_Projekt\obj\Debug\net10.0\71339_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\projekt\71339_Projekt\71339_Projekt\bin\Debug\net10.0\71339_Projekt.exe
+C:\Users\Rafał\Desktop\projekt\71339_Projekt\71339_Projekt\bin\Debug\net10.0\71339_Projekt.deps.json
+C:\Users\Rafał\Desktop\projekt\71339_Projekt\71339_Projekt\bin\Debug\net10.0\71339_Projekt.runtimeconfig.json
+C:\Users\Rafał\Desktop\projekt\71339_Projekt\71339_Projekt\bin\Debug\net10.0\71339_Projekt.dll
+C:\Users\Rafał\Desktop\projekt\71339_Projekt\71339_Projekt\bin\Debug\net10.0\71339_Projekt.pdb
+C:\Users\Rafał\Desktop\projekt\71339_Projekt\71339_Projekt\obj\Debug\net10.0\71339_Projekt.dll
+C:\Users\Rafał\Desktop\projekt\71339_Projekt\71339_Projekt\obj\Debug\net10.0\refint\71339_Projekt.dll
+C:\Users\Rafał\Desktop\projekt\71339_Projekt\71339_Projekt\obj\Debug\net10.0\71339_Projekt.pdb
+C:\Users\Rafał\Desktop\projekt\71339_Projekt\71339_Projekt\obj\Debug\net10.0\71339_Projekt.genruntimeconfig.cache
+C:\Users\Rafał\Desktop\projekt\71339_Projekt\71339_Projekt\obj\Debug\net10.0\ref\71339_Projekt.dll
